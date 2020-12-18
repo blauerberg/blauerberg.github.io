@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>blauerberg.github.io</title>
+		<link>https://blauerberg.github.io/</link>
+		<description>Recent content on blauerberg.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>ja-JP</language>
+		<lastBuildDate>Fri, 18 Dec 2020 14:46:53 +0900</lastBuildDate>
+		
+		<atom:link href="https://blauerberg.github.io/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Drupal on Gitpod</title>
+			<link>https://blauerberg.github.io/posts/drupal-on-gitpod/</link>
+			<pubDate>Fri, 18 Dec 2020 14:46:53 +0900</pubDate>
+			
+			<guid>https://blauerberg.github.io/posts/drupal-on-gitpod/</guid>
+			<description>
+				
+				DockerやLXDの普及により、ローカルマシン上に簡単に使い捨ての環境が構築できるようになりました。
+しかし、ちょっとしたモジュールの動作確認のためにいちいちローカルマシン上でコンテナを起動したり、ネットワーク帯域を消費してcompose...
+				
+			</description>
+		</item>
+		
+	</channel>
+</rss>
