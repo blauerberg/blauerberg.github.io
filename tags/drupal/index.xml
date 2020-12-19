@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>drupal on blauerberg.github.io</title>
+    <link>https://blauerberg.github.io/tags/drupal/</link>
+    <description>Recent content in drupal on blauerberg.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Dec 2020 14:46:53 +0900</lastBuildDate><atom:link href="https://blauerberg.github.io/tags/drupal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Drupal on Gitpod</title>
+      <link>https://blauerberg.github.io/posts/drupal-on-gitpod/</link>
+      <pubDate>Fri, 18 Dec 2020 14:46:53 +0900</pubDate>
+      
+      <guid>https://blauerberg.github.io/posts/drupal-on-gitpod/</guid>
+      <description>この記事はDrupal Advent Calendar 2020の21日目です。
+DockerやLXDなど、アプリケーションの実行環境を抽象化する技術の普及により、ローカルマシン上に簡単に使い捨ての環境が構築できるようになりました。
+しかし、ちょっとしたモジュールの動作確認のためにいちいちローカルマシン上でコンテナを起動したり、ネットワーク帯域を消費してcomposer installしたり、使い終わったらクリーンアップするのは面倒ですよね。ちなみに私はとても面倒です。
+あまりに面倒なので Gitpod でDrupalを立ち上げるようにしました。
+コードはgithubで公開しています。
+https://github.com/blauerberg/gitpod-drupal
+GithubとGitpodのアカウントがあれば、「Open in Gitpod」ボタンを押すだけでGitpod上でDrupalが起動します。
+これで、
+ Eclipse Theia上でコードを読んだり書いたり Xdebugでデバッグしたり シェルを開いてモジュールを追加したり PRのレビューをしたり 環境一式を他の人と共有したり カフェでiPadを開いてドヤ顔してプログラミングするふりをしたり  などなどを、全てブラウザ上だけで楽しむことができます。
+しばらく利用していない環境は自動的にGarbage Collection が働き削除されるので、メンテナンスも不要です。いやー、いい時代になりましたね。
+何ができるかの詳細はREADMEやGitpodのドキュメントを参照してください。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-	<channel>
-		<title>Tags on blauerberg.github.io</title>
-		<link>https://blauerberg.github.io/tags/</link>
-		<description>Recent content in Tags on blauerberg.github.io</description>
-		<generator>Hugo -- gohugo.io</generator>
-		<language>ja-JP</language>
-		
-		<atom:link href="https://blauerberg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-		
-		
-	</channel>
+  <channel>
+    <title>Tags on blauerberg.github.io</title>
+    <link>https://blauerberg.github.io/tags/</link>
+    <description>Recent content in Tags on blauerberg.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Dec 2020 14:46:53 +0900</lastBuildDate><atom:link href="https://blauerberg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>drupal</title>
+      <link>https://blauerberg.github.io/tags/drupal/</link>
+      <pubDate>Fri, 18 Dec 2020 14:46:53 +0900</pubDate>
+      
+      <guid>https://blauerberg.github.io/tags/drupal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitpod</title>
+      <link>https://blauerberg.github.io/tags/gitpod/</link>
+      <pubDate>Fri, 18 Dec 2020 14:46:53 +0900</pubDate>
+      
+      <guid>https://blauerberg.github.io/tags/gitpod/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
