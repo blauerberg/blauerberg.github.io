@@ -4,12 +4,27 @@
   
   <url>
     <loc>https://blauerberg.github.io/</loc>
-    <lastmod>2020-12-18T14:46:53+09:00</lastmod>
+    <lastmod>2022-12-14T09:00:00+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://blauerberg.github.io/tags/drupal/</loc>
-    <lastmod>2020-12-18T14:46:53+09:00</lastmod>
+    <lastmod>2022-12-14T09:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blauerberg.github.io/posts/</loc>
+    <lastmod>2022-12-14T09:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blauerberg.github.io/tags/</loc>
+    <lastmod>2022-12-14T09:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blauerberg.github.io/posts/ambitious-site-builder/</loc>
+    <lastmod>2022-12-14T09:00:00+09:00</lastmod>
   </url>
   
   <url>
@@ -19,16 +34,6 @@
   
   <url>
     <loc>https://blauerberg.github.io/tags/gitpod/</loc>
-    <lastmod>2020-12-18T14:46:53+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blauerberg.github.io/posts/</loc>
-    <lastmod>2020-12-18T14:46:53+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blauerberg.github.io/tags/</loc>
     <lastmod>2020-12-18T14:46:53+09:00</lastmod>
   </url>
   

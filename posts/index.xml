@@ -5,7 +5,26 @@
     <link>https://blauerberg.github.io/posts/</link>
     <description>Recent content in Posts on blauerberg.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 Dec 2020 14:46:53 +0900</lastBuildDate><atom:link href="https://blauerberg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Dec 2022 09:00:00 +0900</lastBuildDate><atom:link href="https://blauerberg.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>開発者目線で Ambitious Site Builders がこうだったらいいな、という話</title>
+      <link>https://blauerberg.github.io/posts/ambitious-site-builder/</link>
+      <pubDate>Wed, 14 Dec 2022 09:00:00 +0900</pubDate>
+      
+      <guid>https://blauerberg.github.io/posts/ambitious-site-builder/</guid>
+      <description>この記事はDrupal Advent Calendar 2022の14日目です。
+DrupalCon Portland 2022 Driesnote に登場した Ambitious Site Builders という言葉が一部で注目されています。
+Drupal Advent Calendar 2022 でも、すでに複数の方がこのテーマで記事を書かれていますね。
+ @gongo_k さん: Drupal の ambitious site builders とは何か @hagi60 さん: Ambitious site builders  両記事とも、とてもよい考察が書かれているのでぜひ読みましょう。
+お二人の属性は、記事の内容や bio からどちらかというとプロジェクトマネージャー・ディレクター寄りのように読み取れます。
+ということで、この記事では開発者の目線から次のことを考えてみようと思います（決して記事のネタが思いつかなかったから真似しているわけではありません 😇)
+ Ambitious Site Builder とは こんなサイトビルダーと一緒だといい仕事できるよね  Ambitious Site Builder とは これを考えるには、まず（普通の、もしくは以前の）「サイトビルダーの役割・スキルセットとは」の整理からですね。
+この点については、先に紹介した @gongo_k さんの記事中の 旧来のサイトビルダー のセクションにまとまっています。ありがとうございます（他力本願）。
+一言でまとめてしまうと、「Drupal のコアとモジュールを使い、管理画面の機能でサイトを構築する人」でしょうか。
+一方で、 @hagi60 さんの記事でも言及があるように (他力本願その2)、
+ Drupal 8での大きなアーキテクチャ変更により、 Drupal 7 では存在したモジュールが使えなくなったり、開発が滞るようになった モジュールを導入する際に composer, config management などの知識が必要になった  という歴史的な背景もあり、「サイトビルダーだけで完結できること」が少なくなってきているのが現在の状況です。</description>
+    </item>
+    
     <item>
       <title>Drupal on Gitpod</title>
       <link>https://blauerberg.github.io/posts/drupal-on-gitpod/</link>
