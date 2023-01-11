@@ -1,52 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://blauerberg.github.io/</loc>
     <lastmod>2022-12-14T09:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/tags/drupal/</loc>
     <lastmod>2022-12-14T09:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/posts/</loc>
     <lastmod>2022-12-14T09:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/tags/</loc>
     <lastmod>2022-12-14T09:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/posts/ambitious-site-builder/</loc>
     <lastmod>2022-12-14T09:00:00+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/posts/drupal-on-gitpod/</loc>
     <lastmod>2020-12-18T14:46:53+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/tags/gitpod/</loc>
     <lastmod>2020-12-18T14:46:53+09:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/archive/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blauerberg.github.io/search/</loc>
   </url>
-  
 </urlset>
